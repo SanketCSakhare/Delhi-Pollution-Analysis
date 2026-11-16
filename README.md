@@ -77,7 +77,7 @@ The dataset (`Delhi Airpollution.csv`) contains historical air quality readings 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sujalg1994/Delhi-Pollution-Analysis.git
+git clone https://github.com/SanketCSakhare/Delhi-Pollution-Analysis.git
 ```
 
 2. Install dependencies:
@@ -96,8 +96,8 @@ jupyter notebook delhi_pollution_analysis.ipynb
 
 **Sanket C Sakhare**
 MSc Business Analytics — University of Birmingham
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-sakhare-8a90b0258/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Sujalg1994)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketsakhare)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/SanketCSakhare)
 
 ---
 
